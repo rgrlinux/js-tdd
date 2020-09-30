@@ -1,0 +1,24 @@
+{
+  "name": "js_tdd",
+  "version": "1.0.0",
+  "description": "Estudo de biblioteca",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgrlinux/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "rogerio oliveira <rgrlinx@gmail.com> (http://thecats.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rgrlinux/js-tdd/issues"
+  },
+  "homepage": "https://github.com/rgrlinux/js-tdd#readme"
+}
