@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/rgrlinux/js-tdd#readme",
   "devDependencies": {
-    "eslint": "^4.0.0",
+    "eslint": "^4.18.2",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.22.1"
   }
