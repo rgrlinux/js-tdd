@@ -1,5 +1,14 @@
-a=3;
-const b = 2
-const b = 4
+const a = 3;
+const b = 2;
+const c = 'aha';
 
-const c = "sqsssssssssqsqsqsqsqsqsqsqsqsqsqsqsqsqsqsqsqsqssssssssssssssssssssssssssssssssssssssss";
+function sum() {
+  return a + b + c;
+}
+
+function multi() {
+  return a - b - c;
+}
+
+sum();
+multi();
