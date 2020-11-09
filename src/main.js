@@ -12,3 +12,4 @@ function multi() {
 
 sum();
 multi();
+
